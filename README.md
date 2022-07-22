@@ -1,1 +1,1 @@
-# The-Tech-Academy-Basic-C-Sharp-Projects
+This repository will contain my C# basic projects. Thanks for viewing!
