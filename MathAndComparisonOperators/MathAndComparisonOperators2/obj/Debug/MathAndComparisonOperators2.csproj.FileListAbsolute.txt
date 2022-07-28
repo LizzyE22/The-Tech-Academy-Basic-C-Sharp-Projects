@@ -1,0 +1,7 @@
+C:\Users\Esque\source\repos\MathAndComparisonOperators2\MathAndComparisonOperators2\obj\Debug\MathAndComparisonOperators2.csproj.CoreCompileInputs.cache
+C:\Users\Esque\source\repos\MathAndComparisonOperators2\MathAndComparisonOperators2\bin\Debug\MathAndComparisonOperators2.exe.config
+C:\Users\Esque\source\repos\MathAndComparisonOperators2\MathAndComparisonOperators2\bin\Debug\MathAndComparisonOperators2.exe
+C:\Users\Esque\source\repos\MathAndComparisonOperators2\MathAndComparisonOperators2\bin\Debug\MathAndComparisonOperators2.pdb
+C:\Users\Esque\source\repos\MathAndComparisonOperators2\MathAndComparisonOperators2\obj\Debug\MathAndComparisonOperators2.exe
+C:\Users\Esque\source\repos\MathAndComparisonOperators2\MathAndComparisonOperators2\obj\Debug\MathAndComparisonOperators2.pdb
+C:\Users\Esque\source\repos\MathAndComparisonOperators2\MathAndComparisonOperators2\obj\Debug\MathAndComparisonOperators2.csproj.AssemblyReference.cache
