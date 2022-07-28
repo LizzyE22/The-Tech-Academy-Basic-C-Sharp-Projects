@@ -33,12 +33,12 @@ namespace MathAndComparison_SubmissionProject
 
             Console.WriteLine("Annual salary of Person 1: ");
             //multiply person 1 hourly rate * hours worked//
-            decimal totalP1 = rateAnswerP1 * hoursAnswerP1;
+            decimal totalP1 = rateAnswerP1 * hoursAnswerP1 * 52;
             Console.WriteLine(totalP1);
 
             Console.WriteLine("Annual salary of Person 2: ");
             //multiply person 2 hourly rate * hours worked//
-            decimal totalP2 = rateAnswerP2 * hoursAnswerP2;
+            decimal totalP2 = rateAnswerP2 * hoursAnswerP2 * 52;
             Console.WriteLine(totalP2);
 
             //boolean result if person 1 makes more than person 2//
