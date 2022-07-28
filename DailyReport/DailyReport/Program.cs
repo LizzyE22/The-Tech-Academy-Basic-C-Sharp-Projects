@@ -16,15 +16,16 @@ namespace DailyReport
             //The following are questions for the user//
             Console.WriteLine("What is your name?");
             string askName = Console.ReadLine();
-            
+
             Console.WriteLine("What course are you on?");
             string askCourse = Console.ReadLine();
 
             Console.WriteLine("What page number?");
-            string askPage = Console.ReadLine();
+            int askPage = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Do you need help with anything? Please answer \"True\" or \"False\"");
-            string askHelp = Console.ReadLine();
+            bool askHelp = Convert.ToBoolean(Console.ReadLine());
+
 
             Console.WriteLine("Were there any positive experiences you'd like to provide? Please be specific.");
             string askExperience = Console.ReadLine();
@@ -34,11 +35,13 @@ namespace DailyReport
 
             Console.WriteLine("How many hours did you study today?");
             string askHours = Console.ReadLine();
+            int hoursAnswer = Convert.ToInt32(askHours);
 
             Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great day!");
-               
-   
+
+
             Console.ReadLine();
+
 
 
         }

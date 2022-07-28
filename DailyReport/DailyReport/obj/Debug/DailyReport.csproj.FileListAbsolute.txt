@@ -4,3 +4,10 @@ C:\Users\Esque\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
 C:\Users\Esque\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
 C:\Users\Esque\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.exe
 C:\Users\Esque\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
