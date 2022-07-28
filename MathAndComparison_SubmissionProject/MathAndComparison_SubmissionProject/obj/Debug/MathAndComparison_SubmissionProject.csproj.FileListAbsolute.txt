@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison_SubmissionProject\MathAndComparison_SubmissionProject\bin\Debug\MathAndComparison_SubmissionProject.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison_SubmissionProject\MathAndComparison_SubmissionProject\bin\Debug\MathAndComparison_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison_SubmissionProject\MathAndComparison_SubmissionProject\bin\Debug\MathAndComparison_SubmissionProject.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison_SubmissionProject\MathAndComparison_SubmissionProject\obj\Debug\MathAndComparison_SubmissionProject.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison_SubmissionProject\MathAndComparison_SubmissionProject\obj\Debug\MathAndComparison_SubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison_SubmissionProject\MathAndComparison_SubmissionProject\obj\Debug\MathAndComparison_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparison_SubmissionProject\MathAndComparison_SubmissionProject\obj\Debug\MathAndComparison_SubmissionProject.pdb
