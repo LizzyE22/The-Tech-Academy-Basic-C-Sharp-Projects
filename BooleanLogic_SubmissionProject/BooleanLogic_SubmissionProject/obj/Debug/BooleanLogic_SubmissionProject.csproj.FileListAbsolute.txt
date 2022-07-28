@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic_SubmissionProject\BooleanLogic_SubmissionProject\bin\Debug\BooleanLogic_SubmissionProject.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic_SubmissionProject\BooleanLogic_SubmissionProject\bin\Debug\BooleanLogic_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic_SubmissionProject\BooleanLogic_SubmissionProject\bin\Debug\BooleanLogic_SubmissionProject.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic_SubmissionProject\BooleanLogic_SubmissionProject\obj\Debug\BooleanLogic_SubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic_SubmissionProject\BooleanLogic_SubmissionProject\obj\Debug\BooleanLogic_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic_SubmissionProject\BooleanLogic_SubmissionProject\obj\Debug\BooleanLogic_SubmissionProject.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic_SubmissionProject\BooleanLogic_SubmissionProject\obj\Debug\BooleanLogic_SubmissionProject.csproj.AssemblyReference.cache
