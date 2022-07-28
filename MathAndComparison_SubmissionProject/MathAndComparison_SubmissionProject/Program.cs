@@ -47,8 +47,6 @@ namespace MathAndComparison_SubmissionProject
             Console.WriteLine(trueOrFalse.ToString());
             Console.ReadLine();
 
-
-            Console.ReadLine();
         }
     }
 }
