@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching_SubmissionProject\Branching_SubmissionProject\bin\Debug\Branching_SubmissionProject.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching_SubmissionProject\Branching_SubmissionProject\bin\Debug\Branching_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching_SubmissionProject\Branching_SubmissionProject\bin\Debug\Branching_SubmissionProject.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching_SubmissionProject\Branching_SubmissionProject\obj\Debug\Branching_SubmissionProject.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching_SubmissionProject\Branching_SubmissionProject\obj\Debug\Branching_SubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching_SubmissionProject\Branching_SubmissionProject\obj\Debug\Branching_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching_SubmissionProject\Branching_SubmissionProject\obj\Debug\Branching_SubmissionProject.pdb
