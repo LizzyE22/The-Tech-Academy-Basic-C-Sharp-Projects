@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExercises\LoopsExercises\obj\Debug\LoopsExercises.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExercises\LoopsExercises\obj\Debug\LoopsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExercises\LoopsExercises\bin\Debug\LoopsExercises.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExercises\LoopsExercises\bin\Debug\LoopsExercises.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExercises\LoopsExercises\bin\Debug\LoopsExercises.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExercises\LoopsExercises\obj\Debug\LoopsExercises.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsExercises\LoopsExercises\obj\Debug\LoopsExercises.pdb
