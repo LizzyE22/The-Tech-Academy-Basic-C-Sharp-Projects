@@ -18,44 +18,40 @@ namespace Branching_SubmissionProject
             if (weightAnswer > 50)
             {
                 Console.WriteLine("Package to heavy to be shipped via Package Express. Have a good day.");
-            }
-            
-            else 
-            {
-                //User input for package width//
-                Console.WriteLine("Please enter the package width:");
-            }
-            string askWidth = Console.ReadLine();
-            decimal widthAnswer = Convert.ToDecimal(askWidth);
-            //User input for package height//
-            Console.WriteLine("Please enter the package height:");
-            string askHeight = Console.ReadLine();
-            decimal heightAnswer = Convert.ToDecimal(askHeight);
-            //User input for package length//
-            Console.WriteLine("Please enter the package length:");
-            string askLength = Console.ReadLine();
-            decimal lengthAnswer = Convert.ToDecimal(askLength);
-            //Calculating total weight of dimensions to be less than 50 to continue//
-            if (widthAnswer + heightAnswer + lengthAnswer > 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
+                Console.ReadLine();
             }
             else
             {
-                //Multiplying dimensions by weight and dividing by 100 for total displayed in dollar amount//
-                decimal totalDimension = widthAnswer * heightAnswer * lengthAnswer * weightAnswer / 100;
-                Console.WriteLine("$" + totalDimension);
-                Console.WriteLine("Thank you!");
-            }
+                //User input for package width//
+                Console.WriteLine("Please enter the package width:");
 
-
-            //decimal dimensionAnswer = Convert.ToDecimal(totalDimension);
-            //Console.WriteLine("$" + dimensionAnswer);
-
-
-
-            Console.ReadLine();
+                string askWidth = Console.ReadLine();
+                decimal widthAnswer = Convert.ToDecimal(askWidth);
+                //User input for package height//
+                Console.WriteLine("Please enter the package height:");
+                string askHeight = Console.ReadLine();
+                decimal heightAnswer = Convert.ToDecimal(askHeight);
+                //User input for package length//
+                Console.WriteLine("Please enter the package length:");
+                string askLength = Console.ReadLine();
+                decimal lengthAnswer = Convert.ToDecimal(askLength);
+                //Calculating total weight of dimensions to be less than 50 to continue//
+                if (widthAnswer + heightAnswer + lengthAnswer > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                    Console.ReadLine();
+                }
+                else
+                {
+                    //Multiplying dimensions by weight and dividing by 100 for total displayed in dollar amount//
+                    decimal totalDimension = widthAnswer * heightAnswer * lengthAnswer * weightAnswer / 100;
+                    Console.WriteLine("$" + totalDimension);
+                    Console.WriteLine("Thank you!");
+                    Console.ReadLine();
+                }
             }
         }
     }
+}
+ 
 
