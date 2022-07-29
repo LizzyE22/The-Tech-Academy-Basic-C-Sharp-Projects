@@ -19,8 +19,12 @@ namespace Branching_SubmissionProject
             {
                 Console.WriteLine("Package to heavy to be shipped via Package Express. Have a good day.");
             }
-            //User input for package width//
-            Console.WriteLine("Please enter the package width:");
+            
+            else 
+            {
+                //User input for package width//
+                Console.WriteLine("Please enter the package width:");
+            }
             string askWidth = Console.ReadLine();
             decimal widthAnswer = Convert.ToDecimal(askWidth);
             //User input for package height//
@@ -36,12 +40,18 @@ namespace Branching_SubmissionProject
             {
                 Console.WriteLine("Package too big to be shipped via Package Express.");
             }
-            //Multiplying dimensions by weight and dividing by 100 for total displayed in dollar amount//
-            decimal totalDimension = widthAnswer * heightAnswer * lengthAnswer * weightAnswer / 100;
+            else
+            {
+                //Multiplying dimensions by weight and dividing by 100 for total displayed in dollar amount//
+                decimal totalDimension = widthAnswer * heightAnswer * lengthAnswer * weightAnswer / 100;
+                Console.WriteLine("$" + totalDimension);
+                Console.WriteLine("Thank you!");
+            }
+
+
             //decimal dimensionAnswer = Convert.ToDecimal(totalDimension);
             //Console.WriteLine("$" + dimensionAnswer);
-            Console.WriteLine("$" + totalDimension);
-            Console.WriteLine("Thank you!");
+
 
 
             Console.ReadLine();
