@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_SubmissionProject\ConsoleApp_SubmissionProject\bin\Debug\ConsoleApp_SubmissionProject.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_SubmissionProject\ConsoleApp_SubmissionProject\bin\Debug\ConsoleApp_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_SubmissionProject\ConsoleApp_SubmissionProject\bin\Debug\ConsoleApp_SubmissionProject.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_SubmissionProject\ConsoleApp_SubmissionProject\obj\Debug\ConsoleApp_SubmissionProject.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_SubmissionProject\ConsoleApp_SubmissionProject\obj\Debug\ConsoleApp_SubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_SubmissionProject\ConsoleApp_SubmissionProject\obj\Debug\ConsoleApp_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_SubmissionProject\ConsoleApp_SubmissionProject\obj\Debug\ConsoleApp_SubmissionProject.pdb
