@@ -1,0 +1,6 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions_exercises\StringFunctions_exercises\bin\Debug\StringFunctions_exercises.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions_exercises\StringFunctions_exercises\bin\Debug\StringFunctions_exercises.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions_exercises\StringFunctions_exercises\bin\Debug\StringFunctions_exercises.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions_exercises\StringFunctions_exercises\obj\Debug\StringFunctions_exercises.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions_exercises\StringFunctions_exercises\obj\Debug\StringFunctions_exercises.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions_exercises\StringFunctions_exercises\obj\Debug\StringFunctions_exercises.pdb

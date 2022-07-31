@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists_exercises\ArraysAndLists_exercises\bin\Debug\ArraysAndLists_exercises.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists_exercises\ArraysAndLists_exercises\bin\Debug\ArraysAndLists_exercises.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists_exercises\ArraysAndLists_exercises\bin\Debug\ArraysAndLists_exercises.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists_exercises\ArraysAndLists_exercises\obj\Debug\ArraysAndLists_exercises.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists_exercises\ArraysAndLists_exercises\obj\Debug\ArraysAndLists_exercises.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists_exercises\ArraysAndLists_exercises\obj\Debug\ArraysAndLists_exercises.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists_exercises\ArraysAndLists_exercises\obj\Debug\ArraysAndLists_exercises.pdb
