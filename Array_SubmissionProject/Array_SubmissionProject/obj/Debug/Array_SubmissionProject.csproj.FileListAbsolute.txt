@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array_SubmissionProject\Array_SubmissionProject\obj\Debug\Array_SubmissionProject.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array_SubmissionProject\Array_SubmissionProject\obj\Debug\Array_SubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array_SubmissionProject\Array_SubmissionProject\bin\Debug\Array_SubmissionProject.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array_SubmissionProject\Array_SubmissionProject\bin\Debug\Array_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array_SubmissionProject\Array_SubmissionProject\bin\Debug\Array_SubmissionProject.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array_SubmissionProject\Array_SubmissionProject\obj\Debug\Array_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array_SubmissionProject\Array_SubmissionProject\obj\Debug\Array_SubmissionProject.pdb
