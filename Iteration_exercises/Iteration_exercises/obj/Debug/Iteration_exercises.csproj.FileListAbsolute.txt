@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_exercises\Iteration_exercises\bin\Debug\Iteration_exercises.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_exercises\Iteration_exercises\bin\Debug\Iteration_exercises.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_exercises\Iteration_exercises\bin\Debug\Iteration_exercises.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_exercises\Iteration_exercises\obj\Debug\Iteration_exercises.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_exercises\Iteration_exercises\obj\Debug\Iteration_exercises.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_exercises\Iteration_exercises\obj\Debug\Iteration_exercises.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_exercises\Iteration_exercises\obj\Debug\Iteration_exercises.csproj.AssemblyReference.cache

@@ -99,6 +99,26 @@ namespace Array_SubmissionProject
                 Console.WriteLine("You're going to Germany!");
             }
 
+            ////////////////Here is a faster/better way to code this project!//////////////////////////////
+            ////////////////Using the 1st array as an example/////////////////////////////////
+            
+            //string[] strArray = { "Red", "Yellow", "Green", "Blue" };
+
+            //Console.WriteLine("Pick a number 0-3 to find out your lucky color!");
+            //string askIndex = Console.ReadLine();
+            //int indexAnswer = Convert.ToInt32(askIndex);
+
+            //if(indexAnswer < 4)
+            //{
+            //    Console.WriteLine(strArray[indexAnswer]);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("You selected an index that doesn't exist");
+            //}
+
+
+
 
 
 
