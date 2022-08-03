@@ -107,32 +107,66 @@ namespace ConsoleApp_Assignment
             Console.WriteLine("Type in your favorite kind of dog to see if it's on our list!");
             string dogAnswer = Console.ReadLine();
 
-            if (dogAnswer == "Golden Retriever")
+            for (int i = 0; i < dogList.Count; i++)
             {
-                Console.WriteLine("You chose a dog on our list: " + dogList[0]);
+                if (dogList[i] == dogAnswer)
+                {
+                    Console.WriteLine("You chose a dog on our list: " + dogList[i]);
+                }
+                else 
+                {
+                    Console.WriteLine("A match was not found for your entry. Try again!");
+                    dogAnswer = (Console.ReadLine());
+                }
             }
-            if (dogAnswer == "Labrador")
-            {
-                Console.WriteLine("You chose a dog on our list: " + dogList[1]);
-            }
-            if (dogAnswer == "Aussie Shepherd")
-            {
-                Console.WriteLine("You chose a dog on our list: " + dogList[2]);
-            }
-            if (dogAnswer == "Maltese")
-            {
-                Console.WriteLine("You chose a dog on our list: " + dogList[3]);
-            }
-            else 
-            {
-                Console.WriteLine("You selected a dog not on our list. Try again!");
-                Console.WriteLine("Type in your favorite kind of dog to see if its on our list!");
-                dogAnswer = (Console.ReadLine());
-            }
-
             Console.ReadLine();
 
-            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            //if (dogAnswer == "Golden Retriever")
+            //{
+            //    Console.WriteLine("You chose a dog on our list: " + dogList[0]);
+            //}
+            //if (dogAnswer == "Labrador")
+            //{
+            //    Console.WriteLine("You chose a dog on our list: " + dogList[1]);
+            //}
+            //if (dogAnswer == "Aussie Shepherd")
+            //{
+            //    Console.WriteLine("You chose a dog on our list: " + dogList[2]);
+            //}
+            //if (dogAnswer == "Maltese")
+            //{
+            //    Console.WriteLine("You chose a dog on our list: " + dogList[3]);
+            //}
+            //else 
+            //{
+            //    Console.WriteLine("You selected a dog not on our list. Try again!");
+            //    Console.WriteLine("Type in your favorite kind of dog to see if its on our list!");
+            //    dogAnswer = (Console.ReadLine());
+            //}
+
+            //Console.ReadLine();
+
+
         }
     }
 }
