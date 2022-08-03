@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_Assignment\ConsoleApp_Assignment\obj\Debug\ConsoleApp_Assignment.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_Assignment\ConsoleApp_Assignment\obj\Debug\ConsoleApp_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_Assignment\ConsoleApp_Assignment\bin\Debug\ConsoleApp_Assignment.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_Assignment\ConsoleApp_Assignment\bin\Debug\ConsoleApp_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_Assignment\ConsoleApp_Assignment\bin\Debug\ConsoleApp_Assignment.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_Assignment\ConsoleApp_Assignment\obj\Debug\ConsoleApp_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp_Assignment\ConsoleApp_Assignment\obj\Debug\ConsoleApp_Assignment.pdb

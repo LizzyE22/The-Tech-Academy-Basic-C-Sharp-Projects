@@ -65,7 +65,7 @@ namespace Iteration_exercises
             //}
             //Console.ReadLine();
 
-            ////////////////Exercise 5; iterate over list, ehen condition is met, add to other list/////////////////
+            ////////////////Exercise 5; iterate over list; when condition is met, add to other list/////////////////
             //integer list of test scores//
             List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
             //creating a blank list//
@@ -73,13 +73,13 @@ namespace Iteration_exercises
             //foreach loop 
             foreach (int score in testScores)
             {
-                //lopp test scores, each that passes, add it to passing score//
+                //loop test scores, each that passes, add it to passing score//
                 if (score > 85)
                 {
                     passingScores.Add(score);
                 }
             }
-            //showing how many pasiing scores there were//
+            //showing how many passing scores there were//
             //"count" in a list is the same as "length" in an array//
             Console.WriteLine(passingScores.Count);
             Console.ReadLine();
