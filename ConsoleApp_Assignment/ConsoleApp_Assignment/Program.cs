@@ -98,27 +98,68 @@ namespace ConsoleApp_Assignment
 
             ////////////////Console App; Part 4 assignment////////////////
 
-            List<string> dogList = new List<string>();
-            dogList.Add("Golden Retriever");
-            dogList.Add("Labrador");
-            dogList.Add("Aussie Shepherd");
-            dogList.Add("Maltese");
+            //List<string> dogList = new List<string>();
+            //dogList.Add("Golden Retriever");
+            //dogList.Add("Labrador");
+            //dogList.Add("Aussie Shepherd");
+            //dogList.Add("Maltese");
 
-            Console.WriteLine("Type in your favorite kind of dog to see if it's on our list!");
-            string dogAnswer = Console.ReadLine();
+            //Console.WriteLine("Type in your favorite kind of dog to see if it's on our list!");
+            //string dogAnswer = Console.ReadLine();
 
-            for (int i = 0; i < dogList.Count; i++)
+
+            //for (int i = 0; i < dogList.Count; i++)
+            //{
+            //    if (!dogList.Contains(dogAnswer))
+            //    {
+            //        Console.WriteLine("A match was not found for your entry.");
+            //        break;
+            //    }
+            //    if (dogList[i] == dogAnswer)
+            //    {
+            //        Console.WriteLine("You chose a dog on our list, at index: " + i);
+            //        break;
+            //    }
+                
+            //}
+
+            ////////////////Console App; Part 5 assignment////////////////
+
+            List<string> dogList2 = new List<string>() { "Pitbull", "Terrier", "Poodle", "Poodle"};
+            //duplicate list//
+            List<string> dogTypes = new List<string>();
+            Console.WriteLine("Search for text in our list.");
+            string dogAnswer2 = Console.ReadLine();
+
+
+            //foreach loop//
+            foreach (string dog in dogList2)
             {
-                if (dogList[i] == dogAnswer)
+                if (dog == dogAnswer2)
                 {
-                    Console.WriteLine("You chose a dog on our list: " + dogList[i]);
+                    dogTypes.Add(dog);
+                    Console.WriteLine("You have chosen a list item: " + dogList2);
                 }
-                else 
-                {
-                    Console.WriteLine("A match was not found for your entry. Try again!");
-                    dogAnswer = (Console.ReadLine());
-                }
+                    else if (dog != dogAnswer2)
+                    {
+                    Console.WriteLine("This entry is not in the list");
+                    }
             }
+            Console.WriteLine();
+            Console.ReadLine();
+            
+            
+
+            
+
+            
+
+
+
+
+
+
+
             Console.ReadLine();
 
 
