@@ -130,7 +130,8 @@ namespace ConsoleApp_Assignment
             List<string> dogTypes = new List<string>();
             Console.WriteLine("Search for text in our list.");
             string dogAnswer2 = Console.ReadLine();
-
+            int i = 0;
+            bool d = false;
 
             //foreach loop//
             foreach (string dog in dogList2)
@@ -138,21 +139,28 @@ namespace ConsoleApp_Assignment
                 if (dog == dogAnswer2)
                 {
                     dogTypes.Add(dog);
-                    Console.WriteLine("You have chosen a list item: " + dogList2);
+                    Console.WriteLine("You have chosen a list item: " + dog + " " + i);
+                    d = true;
                 }
-                    else if (dog != dogAnswer2)
-                    {
-                    Console.WriteLine("This entry is not in the list");
-                    }
+                   
+                i++;
+                
+            }
+            if (d == false)
+            {
+                Console.WriteLine("This entry is not in the list");
             }
             Console.WriteLine();
             Console.ReadLine();
-            
-            
 
-            
+            ////////////////Console App; Part 6 assignment////////////////
 
-            
+
+
+
+
+
+
 
 
 
