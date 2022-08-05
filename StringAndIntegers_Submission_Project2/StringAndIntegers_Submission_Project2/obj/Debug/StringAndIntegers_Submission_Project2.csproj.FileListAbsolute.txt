@@ -1,0 +1,6 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers_Submission_Project2\StringAndIntegers_Submission_Project2\bin\Debug\StringAndIntegers_Submission_Project2.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers_Submission_Project2\StringAndIntegers_Submission_Project2\bin\Debug\StringAndIntegers_Submission_Project2.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers_Submission_Project2\StringAndIntegers_Submission_Project2\bin\Debug\StringAndIntegers_Submission_Project2.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers_Submission_Project2\StringAndIntegers_Submission_Project2\obj\Debug\StringAndIntegers_Submission_Project2.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers_Submission_Project2\StringAndIntegers_Submission_Project2\obj\Debug\StringAndIntegers_Submission_Project2.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegers_Submission_Project2\StringAndIntegers_Submission_Project2\obj\Debug\StringAndIntegers_Submission_Project2.pdb
