@@ -27,8 +27,20 @@ namespace ConsoleApp_Assignment
 
             //Console.ReadLine();
 
-            /////////////Console App; Part 2 assignment//////////////
+            /////////////Console App; Part 2 assignment; Infinite Loop//////////////
+            /////////////////////////////Example 1//////////////////
 
+            //int i = 1;
+            //while (i <= 5)
+            //{
+            //    Console.WriteLine(i);
+            //    //this 'i++' stops the loop, incrementing "i"//
+            //    i++;
+            //}
+
+
+            /////////////Console App; Part 2 assignment; Infinite Loop//////////////
+            //////////////////Example 2////////////////////////////
             //Console.WriteLine("Guess how many countries are in Europe");
             //int countries = Convert.ToInt32(Console.ReadLine());
             ////Correct answer is 44//
@@ -161,29 +173,52 @@ namespace ConsoleApp_Assignment
 
             foreach (string grape in wineGrapes)
             {
-                for (int i = 0; i < wineGrapes.Count; i++)
+                if (grapeList.Contains(grape))
                 {
-                    if (grape[i] >= 2)
-                    {
-                        grapeList.Add(grape);
-                        Console.WriteLine(grape + " this item is a duplicate");
-                        break;
-                    }
-
-                    else if (i <= 2)
-                    {
-                        grapeList.Add(grape);
-                        Console.WriteLine(grape + " this item is unique");
-                        break;
-                    
-                    }
+                    Console.WriteLine(grape + "This is a duplicate");
                 }
-                Console.ReadLine();
+                grapeList.Add(grape);                 
+                else
+                {
+                    Console.WriteLine(grape + "This is unique");
+                }
+            }
+
+
+
+
+
+
+
+
+
+
+
+            //foreach (string grape in wineGrapes)
+            //{
+            //    for (int i = 0; i < wineGrapes.Count; i++)
+            //    {
+            //        if (grape[i] >= 2)
+            //        {
+            //            grapeList.Add(grape);
+            //            Console.WriteLine(grape + " this item is a duplicate");
+            //            break;
+            //        }
+
+            //        else if (i <= 2)
+            //        {
+            //            grapeList.Add(grape);
+            //            Console.WriteLine(grape + " this item is unique");
+            //            break;
+
+            //        }
+            //    }
+            Console.ReadLine();
 
             }
         }
     }
-}
+
                 
                 
             
