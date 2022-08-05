@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods_SubmissionProject\CallingMethods_SubmissionProject\bin\Debug\CallingMethods_SubmissionProject.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods_SubmissionProject\CallingMethods_SubmissionProject\bin\Debug\CallingMethods_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods_SubmissionProject\CallingMethods_SubmissionProject\bin\Debug\CallingMethods_SubmissionProject.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods_SubmissionProject\CallingMethods_SubmissionProject\obj\Debug\CallingMethods_SubmissionProject.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods_SubmissionProject\CallingMethods_SubmissionProject\obj\Debug\CallingMethods_SubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods_SubmissionProject\CallingMethods_SubmissionProject\obj\Debug\CallingMethods_SubmissionProject.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods_SubmissionProject\CallingMethods_SubmissionProject\obj\Debug\CallingMethods_SubmissionProject.pdb
