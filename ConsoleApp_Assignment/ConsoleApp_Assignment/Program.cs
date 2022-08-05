@@ -170,49 +170,22 @@ namespace ConsoleApp_Assignment
             List<string> wineGrapes = new List<string>() { "Chardonnay", "Gamay", "Gamay", "Riesling", "Pinot Noir" };
             //duplicate list//
             List<string> grapeList = new List<string>();
-
+            //foreach loop to iterate through list//
             foreach (string grape in wineGrapes)
             {
                 if (grapeList.Contains(grape))
                 {
                     Console.WriteLine(grape + "This is a duplicate");
                 }
-                grapeList.Add(grape);                 
                 else
                 {
                     Console.WriteLine(grape + "This is unique");
                 }
+                //add to new list//
+                grapeList.Add(grape);
+
             }
-
-
-
-
-
-
-
-
-
-
-
-            //foreach (string grape in wineGrapes)
-            //{
-            //    for (int i = 0; i < wineGrapes.Count; i++)
-            //    {
-            //        if (grape[i] >= 2)
-            //        {
-            //            grapeList.Add(grape);
-            //            Console.WriteLine(grape + " this item is a duplicate");
-            //            break;
-            //        }
-
-            //        else if (i <= 2)
-            //        {
-            //            grapeList.Add(grape);
-            //            Console.WriteLine(grape + " this item is unique");
-            //            break;
-
-            //        }
-            //    }
+        
             Console.ReadLine();
 
             }
