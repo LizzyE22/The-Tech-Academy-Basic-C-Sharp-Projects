@@ -11,21 +11,21 @@ namespace ConsoleApp_Assignment
         static void Main(string[] args)
         {
             ///////////Console App; Part 1 assignment///////////////
-            //string[] strArray = { "Who doesn't love a ", "One of the most beautiful flowers is a ", "I love the smell of a fresh " };
+            string[] strArray = { "Who doesn't love a ", "One of the most beautiful flowers is a ", "I love the smell of a fresh " };
 
-            //Console.WriteLine("Tell us your favorite flower!");
-            //string askFlower = Console.ReadLine();
+            Console.WriteLine("Tell us your favorite flower!");
+            string askFlower = Console.ReadLine();
 
-            //foreach( string i in strArray)
-            //{
-            //    Console.WriteLine(i + askFlower);
-            //}
-            //foreach (string i in strArray)
-            //{
-            //    Console.WriteLine(i);
-            //}
+            foreach (string i in strArray)
+            {
+                Console.WriteLine(i + askFlower);
+            }
+            foreach (string i in strArray)
+            {
+                Console.WriteLine(i);
+            }
 
-            //Console.ReadLine();
+            Console.ReadLine();
 
             /////////////Console App; Part 2 assignment; Infinite Loop//////////////
             /////////////////////////////Example 1//////////////////
