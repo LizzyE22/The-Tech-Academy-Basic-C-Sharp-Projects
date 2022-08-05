@@ -120,105 +120,80 @@ namespace ConsoleApp_Assignment
             //        Console.WriteLine("You chose a dog on our list, at index: " + i);
             //        break;
             //    }
-                
+
             //}
 
             ////////////////Console App; Part 5 assignment////////////////
 
-            List<string> dogList2 = new List<string>() { "Pitbull", "Terrier", "Poodle", "Poodle"};
-            //duplicate list//
-            List<string> dogTypes = new List<string>();
-            Console.WriteLine("Search for text in our list.");
-            string dogAnswer2 = Console.ReadLine();
-            int i = 0;
-            bool d = false;
+            //List<string> dogList2 = new List<string>() { "Pitbull", "Terrier", "Poodle", "Poodle"};
+            ////duplicate list//
+            //List<string> dogTypes = new List<string>();
+            //Console.WriteLine("Search for text in our list.");
+            //string dogAnswer2 = Console.ReadLine();
+            //int i = 0;
+            //bool d = false;
 
-            //foreach loop//
-            foreach (string dog in dogList2)
-            {
-                if (dog == dogAnswer2)
-                {
-                    dogTypes.Add(dog);
-                    Console.WriteLine("You have chosen a list item: " + dog + " " + i);
-                    d = true;
-                }
-                   
-                i++;
-                
-            }
-            if (d == false)
-            {
-                Console.WriteLine("This entry is not in the list");
-            }
-            Console.WriteLine();
-            Console.ReadLine();
+            ////foreach loop//
+            //foreach (string dog in dogList2)
+            //{
+            //    if (dog == dogAnswer2)
+            //    {
+            //        dogTypes.Add(dog);
+            //        Console.WriteLine("You have chosen a list item: " + dog + " " + i);
+            //        d = true;
+            //    }
+
+            //    i++;
+
+            //}
+            //if (d == false)
+            //{
+            //    Console.WriteLine("This entry is not in the list");
+            //}
+            //Console.WriteLine();
+            //Console.ReadLine();
 
             ////////////////Console App; Part 6 assignment////////////////
 
+            List<string> wineGrapes = new List<string>() { "Chardonnay", "Gamay", "Gamay", "Riesling", "Pinot Noir" };
+            //duplicate list//
+            List<string> grapeList = new List<string>();
 
+            foreach (string grape in wineGrapes)
+            {
+                for (int i = 0; i < wineGrapes.Count; i++)
+                {
+                    if (grape[i] >= 2)
+                    {
+                        grapeList.Add(grape);
+                        Console.WriteLine(grape + " this item is a duplicate");
+                        break;
+                    }
 
+                    else if (i <= 2)
+                    {
+                        grapeList.Add(grape);
+                        Console.WriteLine(grape + " this item is unique");
+                        break;
+                    
+                    }
+                }
+                Console.ReadLine();
 
-
-
-
-
-
-
-
-
-
-
-            Console.ReadLine();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            //if (dogAnswer == "Golden Retriever")
-            //{
-            //    Console.WriteLine("You chose a dog on our list: " + dogList[0]);
-            //}
-            //if (dogAnswer == "Labrador")
-            //{
-            //    Console.WriteLine("You chose a dog on our list: " + dogList[1]);
-            //}
-            //if (dogAnswer == "Aussie Shepherd")
-            //{
-            //    Console.WriteLine("You chose a dog on our list: " + dogList[2]);
-            //}
-            //if (dogAnswer == "Maltese")
-            //{
-            //    Console.WriteLine("You chose a dog on our list: " + dogList[3]);
-            //}
-            //else 
-            //{
-            //    Console.WriteLine("You selected a dog not on our list. Try again!");
-            //    Console.WriteLine("Type in your favorite kind of dog to see if its on our list!");
-            //    dogAnswer = (Console.ReadLine());
-            //}
-
-            //Console.ReadLine();
-
-
+            }
         }
     }
 }
+                
+                
+            
+
+
+
+
+        
+
+
     
 
     
