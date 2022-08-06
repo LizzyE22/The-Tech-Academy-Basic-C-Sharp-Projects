@@ -13,20 +13,16 @@ namespace MainMethod_SubmissionProject
             int result = Number + 100;
             return result;
         }
-        public decimal Addition2(decimal Number)
+        public int Addition(decimal Number)
         {
-            decimal result = Number + 200;
+            int result = Convert.ToInt32(Number + 200);
             return result;
         }
-        public string Addition3(string Number)
+        public int Addition(string Number)
         {
-            string result = Number + 300;
-            string Addition3 = Convert.ToInt32(Number);
-
+            int result = Convert.ToInt32(Number + 300);
             return result;
         }
-      
-
         
     }
 }
