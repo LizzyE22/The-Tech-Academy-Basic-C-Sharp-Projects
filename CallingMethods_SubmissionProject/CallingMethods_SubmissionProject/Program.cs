@@ -11,29 +11,24 @@ namespace CallingMethods_SubmissionProject
         static void Main(string[] args)
          
         {
-            Console.WriteLine("What number would you like to do Math with?");
+            //Requesting number for user input to apply Math
+            Console.WriteLine("What number would you like to do some Math with?");
             string askNumber = Console.ReadLine();
             int userNumber = Convert.ToInt32(askNumber);
 
+
             Class1 class1 = new Class1();
-            //method
-            class1.Num1 = 10;
-            class1.Num2 = 20;
+            //calling methods in Class1
 
-            Console.WriteLine(class1.Num1 + class1.Num2);
-            Console.ReadLine();
+            int Number1 = class1.Add(userNumber);
+            int Number2 = class1.Add2(userNumber);
+            int Number3 = class1.Add3(userNumber);
 
-            class1.Num1 = 30;
-            class1.Num2 = 40;
-
-            Console.WriteLine(class1.Num1 * class1.Num2);
-            Console.ReadLine();
-
-            class1.Num1 = 60;
-            class1.Num2 = 20;
-            Console.WriteLine(class1.Num1 / class1.Num2);
+            Console.WriteLine(Number1);
+            Console.WriteLine(Number2);
+            Console.WriteLine(Number3);
             Console.ReadLine();
 
         }
-    }
+    }   
 }
