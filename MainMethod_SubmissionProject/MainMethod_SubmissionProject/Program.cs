@@ -13,6 +13,8 @@ namespace MainMethod_SubmissionProject
             Console.WriteLine("Enter a number");
             int Number = Convert.ToInt32(Console.ReadLine());
 
+
+
             Class1 class1 = new Class1();
 
             int Answer1 = class1.Addition(Number);

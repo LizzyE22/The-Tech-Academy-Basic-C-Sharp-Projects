@@ -12,6 +12,7 @@ namespace MainMethod_SubmissionProject
         {
             int result = Number + 100;
             return result;
+           
         }
         public int Addition(decimal Number)
         {
