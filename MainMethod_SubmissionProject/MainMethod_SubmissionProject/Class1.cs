@@ -21,7 +21,7 @@ namespace MainMethod_SubmissionProject
         }
         public int Addition(string Number)
         {
-            int result = Convert.ToInt32(Number + 300);
+            int result = Convert.ToInt32(Number + 100);
             return result;
         }
         

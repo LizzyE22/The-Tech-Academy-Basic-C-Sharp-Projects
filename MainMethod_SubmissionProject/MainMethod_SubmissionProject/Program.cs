@@ -10,22 +10,20 @@ namespace MainMethod_SubmissionProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number");
-            int Number = Convert.ToInt32(Console.ReadLine());
-
-
-
+            
             Class1 class1 = new Class1();
 
-            int Answer1 = class1.Addition(Number);
-            int Answer2 = class1.Addition(Number);
-            int Answer3 = class1.Addition(Number);
+            int Answer1 = class1.Addition(100);
+            int Answer2 = class1.Addition(2.4m);
+            int Answer3 = class1.Addition(25);
 
             Console.WriteLine(Answer1);
             Console.WriteLine(Answer2);
-            Console.WriteLine(Answer3);
+            Console.WriteLine(Convert.ToInt32(Answer3));
 
             Console.ReadLine();
         }
     }
 }
+
+
