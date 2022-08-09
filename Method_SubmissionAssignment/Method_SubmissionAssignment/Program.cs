@@ -10,6 +10,7 @@ namespace Method_SubmissionAssignment
     {
         static void Main(string[] args)
         {
+            //try/catch block
             try
             {
 
@@ -26,6 +27,7 @@ namespace Method_SubmissionAssignment
                     Console.ReadLine();
                 }
             }
+            //catching a format exception
             catch (FormatException)
             {
                 Console.WriteLine("Thank you!");
