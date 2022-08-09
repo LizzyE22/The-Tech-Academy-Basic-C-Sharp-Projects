@@ -10,17 +10,31 @@ namespace Method_SubmissionAssignment
     {
         static void Main(string[] args)
         {
-            //user input asking to enter numbers
-            Console.WriteLine("Enter two numbers");
-            int Number1 = Convert.ToInt32(Console.ReadLine());
-            int Number2 = Convert.ToInt32(Console.ReadLine());
+            try
+            {
 
-            //instantiating class
-            NewClass newclass = new NewClass();
-            int Total = newclass.Answer(Number1, Number2);
+                //user input asking to enter numbers
+                Console.WriteLine("Enter two numbers, one at a time");
+                int Number1 = Convert.ToInt32(Console.ReadLine());
+                int Number2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Total: " + Total);
-            Console.ReadLine();
-        }
+                //instantiating class
+                NewClass newclass = new NewClass();
+                int Total = newclass.Answer(Number1, Number2);
+                {
+                    Console.WriteLine("Total: " + Total);
+                    Console.ReadLine();
+                }
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Thank you!");
+                return;
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
+         }
     }
 }
