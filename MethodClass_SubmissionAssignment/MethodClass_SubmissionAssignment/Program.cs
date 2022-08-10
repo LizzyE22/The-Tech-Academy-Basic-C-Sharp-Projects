@@ -10,9 +10,12 @@ namespace MethodClass_SubmissionAssignment
     {
         public static void Main(string[] args)
         {
+            int Number1 = 2;
+            int Number2 = 4;
 
             NewClass newClass = new NewClass();
             NewClass.Answer(2, 4);
+            NewClass.Answer(Number1, Number2);
         }           
     }
 }
