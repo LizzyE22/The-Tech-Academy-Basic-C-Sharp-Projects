@@ -8,6 +8,18 @@ namespace MethodClass_SubmissionAssignment
 {
     public class NewClass
     {
-       
+        public int Answer(int Number1, int Number2);
+
+            void Output()
+        {
+            Console.WriteLine(result);
+            Console.WriteLine(Number2);
+                                
+        }
+        
+            
+
+        
+
     }
 }

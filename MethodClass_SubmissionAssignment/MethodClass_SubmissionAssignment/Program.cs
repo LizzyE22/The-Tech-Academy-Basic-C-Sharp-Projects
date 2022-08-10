@@ -12,6 +12,8 @@ namespace MethodClass_SubmissionAssignment
         {
 
             NewClass newClass = new NewClass();
+
+            //int Answer1 = newClass.Answer();
             
         }
         
