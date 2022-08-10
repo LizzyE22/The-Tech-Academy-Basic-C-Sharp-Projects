@@ -8,14 +8,11 @@ namespace MethodClass_SubmissionAssignment
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             NewClass newClass = new NewClass();
-
-            //int Answer1 = newClass.Answer();
-            
-        }
-        
+            NewClass.Answer(2, 4);
+        }           
     }
 }
