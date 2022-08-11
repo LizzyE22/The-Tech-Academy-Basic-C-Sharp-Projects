@@ -11,31 +11,33 @@ namespace Method_SubmissionAssignment
         public static void Main(string[] args)
         {
             //user input asking to enter numbers
-            Console.WriteLine("Enter two numbers, one at a time");
+            Console.WriteLine("Please enter your first number.");
             int Number1 = Convert.ToInt32(Console.ReadLine());
-            int Number2 = Convert.ToInt32(Console.ReadLine());
-            
+            Console.WriteLine("Would you like to enter a second number?");
+            bool answerNum2 = Convert.ToBoolean(Console.ReadLine());
+
             //instantiating class
             NewClass newclass = new NewClass();
-            int Total = newclass.Answer(Number1, Number2);
+            int Total = newclass.Answer(Number1);
 
-            if (Total == Number1 + Number2)
+            if (answerNum2 == true)
 
             {
+                int Number2 = Convert.ToInt32(Console.ReadLine());
+                newclass.Answer(Number1, Number2);
 
-                Console.WriteLine("Total: " + Total);
+                //Console.WriteLine(Number1, Number2);
                 Console.ReadLine();
             }
-            
-            else
+
+            else 
             {
-                Console.WriteLine(Number2);
+
+                newclass.Answer(Number1);
                 Console.ReadLine();
 
-
-
             }
-         }
+        }
     }
 
 }
