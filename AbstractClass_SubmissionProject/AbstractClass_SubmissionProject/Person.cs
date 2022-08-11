@@ -12,9 +12,12 @@ namespace AbstractClass_SubmissionProject
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public virtual void SayName()
-        {
-        }
+        public abstract void SayName();
+        
+
+       
+        
+        
         
 
     }

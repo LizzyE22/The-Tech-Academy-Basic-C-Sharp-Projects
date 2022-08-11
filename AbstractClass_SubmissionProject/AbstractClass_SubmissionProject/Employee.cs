@@ -12,7 +12,7 @@ namespace AbstractClass_SubmissionProject
         //implementing SayName() method inside Employee class
         public override void SayName()
         {
-            base.SayName();
+            Console.WriteLine(firstName  + " " + lastName);
         }
     }
 }
