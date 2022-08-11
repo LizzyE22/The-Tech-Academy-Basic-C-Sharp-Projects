@@ -23,17 +23,18 @@ namespace Method_SubmissionAssignment
             if (answerNum2 == true)
 
             {
+                Console.WriteLine("Enter your second number now");
                 int Number2 = Convert.ToInt32(Console.ReadLine());
-                newclass.Answer(Number1, Number2);
-
-                //Console.WriteLine(Number1, Number2);
+                int x = newclass.Answer(Number1, Number2);
+                Console.WriteLine(x);
                 Console.ReadLine();
             }
 
             else 
             {
 
-                newclass.Answer(Number1);
+                int y = newclass.Answer(Number1);
+                Console.WriteLine(y);
                 Console.ReadLine();
 
             }
