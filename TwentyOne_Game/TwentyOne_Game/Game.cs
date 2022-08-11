@@ -6,13 +6,20 @@ using System.Threading.Tasks;
 
 namespace TwentyOne_Game
 {
-    public class Game
+    //adding "abstract" to the class locks it in, and it can only now be inherited from and cannot be instantiated 
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPLayers()
+        //adding abstract method that can only exist inside of an abstract class and contains no implementation
+        //an abstract method states that any class inheriting this class must implement this method
+        public abstract void Play();
+
+        //a "virtual" method inside of an abstract class gets inherited by an inheriting class (TwentyOneGame), but
+        // it has the ablity to override it
+        public virtual void ListPLayers()
         {
             foreach (string player in Players)
             {

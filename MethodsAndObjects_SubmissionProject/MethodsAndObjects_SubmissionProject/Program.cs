@@ -17,21 +17,10 @@ namespace MethodsAndObjects_SubmissionProject
             employee.LastName = "Student";
             //calling superclass method SayName() on Employee object
             employee.SayName();
-
-            
-            
-            
-            //public string Sample { get; set; }
-            //public string Student { get; set; }
-
+                   
+        }
     }
 }
-}
 
 
-//TwentyOneGame game = new TwentyOneGame();
-////calling super class method, "game"
-//game.Players = new List<string>() { "Lizzy", "Bill", "Joe" };
-//game.ListPLayers();
-//game.Play();
-//Console.ReadLine();
+

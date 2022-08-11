@@ -9,10 +9,20 @@ namespace TwentyOne_Game
     //public class TwentyOneGame inherits from class Game
     public class TwentyOneGame : Game
     {
-        public void Play()
+        //implementing abstract method in inheriting class with "override"
+        public override void Play()
         {
             //throwing an error when method is called
             throw new NotImplementedException();
         }
+        public override void ListPLayers()
+        {
+            Console.WriteLine("21 Players: ");
+            //this auto pops up and is the same as the foreach loop in "Game" class
+            base.ListPLayers();
+
+
+        }
     }
 }
+
