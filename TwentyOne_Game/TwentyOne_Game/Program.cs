@@ -10,18 +10,24 @@ namespace TwentyOne_Game
     {
         static void Main(string[] args)
         {
-            //creating object:deck
-            Deck deck = new Deck();
-            //calling method to shuffle deck 3x, sending it out + assigning variable timesShuffled
-            deck.Shuffle(3);
-
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-
-            Console.WriteLine(deck.Cards.Count);
+            TwentyOneGame game = new TwentyOneGame();
+            //calling super class method, "game"
+            game.Players = new List<string>() { "Lizzy", "Bill", "Joe" };
+            game.ListPLayers();
+            game.Play();
             Console.ReadLine();
+            ////creating object:deck
+            //Deck deck = new Deck();
+            ////calling method to shuffle deck 3x, sending it out + assigning variable timesShuffled
+            //deck.Shuffle(3);
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+
+            //Console.WriteLine(deck.Cards.Count);
+            //Console.ReadLine();
         }
 
        

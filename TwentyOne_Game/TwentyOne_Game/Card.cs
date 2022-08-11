@@ -11,7 +11,7 @@ namespace TwentyOne_Game
         public Card()
         {
             //this is a constructor; value assigned to object upon creation
-            //the constructor methos name is always the name of the class
+            //the constructor methods name is always the name of the class
             Suit = "Spades";
             Face = "Two";
         }
