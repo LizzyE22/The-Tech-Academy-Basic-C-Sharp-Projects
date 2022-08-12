@@ -8,14 +8,16 @@ namespace Operators_SubmissionAssignment
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             //instantiating objects
-            Employee employee = new Employee();
-            employee.FirstName = "Lizzy";
-            employee.LastName = "Esqueda";
+            Employee employee1 = new Employee();
+            Employee employee2 = new Employee();
 
-            Console.WriteLine(employee.FirstName + " " + employee.LastName);
+            employee1.Id = "Lizzy";
+            employee2.Id = "Esqueda";
+
+            Console.WriteLine(employee1.Id + " " + employee2.Id);
             Console.ReadLine();
         }
     }
