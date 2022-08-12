@@ -10,10 +10,18 @@ namespace TwentyOne_Game
     {
         static void Main(string[] args)
         {
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            game.ListPLayers();
-            Console.ReadLine();
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            //parameters game and player return a game
+            game += player; //same as game = game + player;
+            game -= player; // same as game = game - player;
+
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            //game.ListPLayers();
+            //Console.ReadLine();
 
             //TwentyOneGame object morphing into a Game object
             //Game game = new TwentyOneGame();
@@ -26,20 +34,20 @@ namespace TwentyOne_Game
             //game.Play();
             //Console.ReadLine();
             ////creating object:deck
-            //Deck deck = new Deck();
-            ////calling method to shuffle deck 3x, sending it out + assigning variable timesShuffled
-            //deck.Shuffle(3);
+            Deck deck = new Deck();
+            //calling method to shuffle deck 3x, sending it out + assigning variable timesShuffled
+            deck.Shuffle(3);
 
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
 
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.ReadLine();
+            Console.WriteLine(deck.Cards.Count);
+            Console.ReadLine();
         }
 
-       
-      
+
+
     }
 }

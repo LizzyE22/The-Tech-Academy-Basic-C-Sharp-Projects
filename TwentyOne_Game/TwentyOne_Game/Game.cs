@@ -9,7 +9,7 @@ namespace TwentyOne_Game
     //adding "abstract" to the class locks it in, and it can only now be inherited from and cannot be instantiated 
     public abstract class Game
     {
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -21,9 +21,9 @@ namespace TwentyOne_Game
         // it has the ablity to override it
         public virtual void ListPLayers()
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
     }
