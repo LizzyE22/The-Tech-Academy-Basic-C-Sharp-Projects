@@ -10,13 +10,15 @@ namespace TwentyOne_Game
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            //parameters game and player return a game
-            game += player; //same as game = game + player;
-            game -= player; // same as game = game - player;
+            Player<Card> player = new Player<Card>();
+            player.Hand = new List<Card>();
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Jesse";
+            ////parameters game and player return a game
+            //game += player; //same as game = game + player;
+            //game -= player; // same as game = game - player;
 
             //TwentyOneGame game = new TwentyOneGame();
             //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
