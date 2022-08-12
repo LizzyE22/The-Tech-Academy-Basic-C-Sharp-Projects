@@ -10,6 +10,13 @@ namespace Operators_SubmissionAssignment
     {
         static void Main(string[] args)
         {
+            //instantiating objects
+            Employee employee = new Employee();
+            employee.FirstName = "Lizzy";
+            employee.LastName = "Esqueda";
+
+            Console.WriteLine(employee.FirstName + " " + employee.LastName);
+            Console.ReadLine();
         }
     }
 }
