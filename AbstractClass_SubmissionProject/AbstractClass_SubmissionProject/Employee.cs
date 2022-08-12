@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClass_SubmissionProject
 {
-    //class Employee inherits from class PersonS
+    //class Employee inherits from class Persons
     public class Employee : Person
     {
         //implementing SayName() method inside Employee class
