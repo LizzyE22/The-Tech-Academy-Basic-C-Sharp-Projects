@@ -10,7 +10,17 @@ namespace TwentyOne_Game
     {
         static void Main(string[] args)
         {
-            //Another enum sxample//
+
+            //Struct example//
+            Card card1 = new Card();
+            Card card2 = card1;
+            card1.Face = Face.Eight;
+            card2.Face = Face.King;
+
+            Console.WriteLine(card1.Face);
+
+
+            //Another enum example//
             Card card = new Card();
             card.Suit = Suit.Clubs;
             //casting enum string to an integer...return is "1"

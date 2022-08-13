@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TwentyOne_Game
 {
-    public class Card
+    //making card class a struct- nothing is inheriting from Card
+    public struct Card
     {
         //public Card()
         //{
