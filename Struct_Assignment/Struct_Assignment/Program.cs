@@ -10,6 +10,13 @@ namespace Struct_Assignment
     {
         static void Main(string[] args)
         {
+            Number number1 = new Number();
+            Number number2 = number1;
+            
+           
+
+            Console.WriteLine(number1);
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment\Struct_Assignment\bin\Debug\Struct_Assignment.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment\Struct_Assignment\bin\Debug\Struct_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment\Struct_Assignment\bin\Debug\Struct_Assignment.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.pdb

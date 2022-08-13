@@ -12,20 +12,20 @@ namespace TwentyOne_Game
         {
 
             //Struct example//
-            Card card1 = new Card();
-            Card card2 = card1;
-            card1.Face = Face.Eight;
-            card2.Face = Face.King;
+            //Card card1 = new Card();
+            //Card card2 = card1;
+            //card1.Face = Face.Eight;
+            //card2.Face = Face.King;
 
-            Console.WriteLine(card1.Face);
+            //Console.WriteLine(card1.Face);
 
 
-            //Another enum example//
-            Card card = new Card();
-            card.Suit = Suit.Clubs;
-            //casting enum string to an integer...return is "1"
-            int underlyingValue = Convert.ToInt32(Suit.Diamonds);
-            Console.WriteLine(underlyingValue);
+            ////Another enum example//
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+            ////casting enum string to an integer...return is "1"
+            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+            //Console.WriteLine(underlyingValue);
 
             ///Enum example//
             //DaysofTheWeek day = DaysofTheWeek.Monday;
@@ -60,17 +60,50 @@ namespace TwentyOne_Game
             //Console.ReadLine();
             ////creating object:deck
             Deck deck = new Deck();
+
+            //Lambda function is "Count", "Cards" is a list
+            //"x" is standard and represents each element in the list
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+            //Console.WriteLine(count);
+
+
+            ///Another lambda example////
+            //"Where" is a lambda function where you can filter your list for particular features- must have "ToList" to work
+            //Says: take a list of cards + findout where the "Face" equals the "King" + map that to a new list
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            //foreach (Card card in newList)
+            //{
+            //    Console.WriteLine(card.Face);
+            //}
+
+
+            ////Another lamda example with new list and instantiating w/ values////
+            /////fast way to sum numbers in a list--- output should be 906 w/ (int sum = numberList.Sum())
+            List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
+
+            //additional arithmetic to each item in the list.
+            //says; for each item, lets add "5" to that item
+            //output should now go from 906 to 936 with additional arithmetic
+            int sum = numberList.Sum(x => x + 5);
+
+            Console.WriteLine(sum);
+            
+            
+            
+            ////Shuffling deck example////
             //calling method to shuffle deck 3x, sending it out + assigning variable timesShuffled
-            deck.Shuffle(3);
+            //deck.Shuffle(3);
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
 
-            Console.WriteLine(deck.Cards.Count);
+            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
+        
+        
         //Enums example//
         //public enum DaysofTheWeek
         //{

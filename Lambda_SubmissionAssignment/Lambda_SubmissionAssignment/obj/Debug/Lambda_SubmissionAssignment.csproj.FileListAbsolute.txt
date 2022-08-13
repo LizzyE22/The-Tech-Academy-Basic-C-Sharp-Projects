@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_SubmissionAssignment\Lambda_SubmissionAssignment\bin\Debug\Lambda_SubmissionAssignment.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_SubmissionAssignment\Lambda_SubmissionAssignment\bin\Debug\Lambda_SubmissionAssignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_SubmissionAssignment\Lambda_SubmissionAssignment\bin\Debug\Lambda_SubmissionAssignment.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_SubmissionAssignment\Lambda_SubmissionAssignment\obj\Debug\Lambda_SubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_SubmissionAssignment\Lambda_SubmissionAssignment\obj\Debug\Lambda_SubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_SubmissionAssignment\Lambda_SubmissionAssignment\obj\Debug\Lambda_SubmissionAssignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda_SubmissionAssignment\Lambda_SubmissionAssignment\obj\Debug\Lambda_SubmissionAssignment.pdb

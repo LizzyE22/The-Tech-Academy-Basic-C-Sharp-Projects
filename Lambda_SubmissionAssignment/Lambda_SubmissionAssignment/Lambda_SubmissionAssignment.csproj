@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F7B8C149-45FD-43C4-B164-13BC565FF90D}</ProjectGuid>
+    <ProjectGuid>{8E77FB94-992C-4D8A-A55B-3959853B4F28}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Struct_Assignment</RootNamespace>
-    <AssemblyName>Struct_Assignment</AssemblyName>
+    <RootNamespace>Lambda_SubmissionAssignment</RootNamespace>
+    <AssemblyName>Lambda_SubmissionAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Number.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
