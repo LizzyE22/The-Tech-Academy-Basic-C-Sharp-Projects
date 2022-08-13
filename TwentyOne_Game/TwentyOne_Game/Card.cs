@@ -8,15 +8,39 @@ namespace TwentyOne_Game
 {
     public class Card
     {
-        public Card()
-        {
-            //this is a constructor; value assigned to object upon creation
-            //the constructor methods name is always the name of the class
-            Suit = "Spades";
-            Face = "Two";
-        }
+        //public Card()
+        //{
+        //    //this is a constructor; value assigned to object upon creation
+        //    //the constructor methods name is always the name of the class
+        //    //Suit = "Spades";
+        //    //Face = "Two";
+        //}
         //creating property in the object
-        public string Suit { get; set; }
-        public string Face { get; set; }
+        //Suit Suit and Face Face is enum type
+        public Suit Suit { get; set; }
+        public Face Face { get; set; }
+    }
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
+    }
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
     }
 }

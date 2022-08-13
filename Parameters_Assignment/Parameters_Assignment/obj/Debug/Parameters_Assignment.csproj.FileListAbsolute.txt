@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Parameters_Assignment\Parameters_Assignment\bin\Debug\Parameters_Assignment.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Parameters_Assignment\Parameters_Assignment\bin\Debug\Parameters_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Parameters_Assignment\Parameters_Assignment\bin\Debug\Parameters_Assignment.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Parameters_Assignment\Parameters_Assignment\obj\Debug\Parameters_Assignment.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Parameters_Assignment\Parameters_Assignment\obj\Debug\Parameters_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Parameters_Assignment\Parameters_Assignment\obj\Debug\Parameters_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Parameters_Assignment\Parameters_Assignment\obj\Debug\Parameters_Assignment.pdb

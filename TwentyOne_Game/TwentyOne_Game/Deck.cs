@@ -12,29 +12,41 @@ namespace TwentyOne_Game
         //contructor method name is always the same as class
         public Deck()
         {
-            //"Cards" refers to the property of the class-no need for variable or type name
+            ////"Cards" refers to the property of the class-no need for variable or type name
             Cards = new List<Card>();
-            //nested foreach loop
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-            List<string> Faces = new List<string>()
-            {
-                "Two", "Three", "Four", "Five", "Six", "Seven",
-                "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
 
-            foreach (string face in Faces)
+            for (int i = 0; i < 13; i++)
             {
-                foreach (string suit in Suits)
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
+                    //casting int
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
                     Cards.Add(card);
-
                 }
             }
- 
         }
+            ///ALL OF THIS IS COMMENTED OUT BC WE USED AN ENUM AND CHANGED CODE////
+            ////nested foreach loop
+            //List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
+            //List<string> Faces = new List<string>()
+            //{
+            //    "Two", "Three", "Four", "Five", "Six", "Seven",
+            //    "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
+            //};
+
+            //foreach (string face in Faces)
+            //{
+            //    foreach (string suit in Suits)
+            //    {
+            //        Card card = new Card();
+            //        card.Suit = suit;
+            //        card.Face = face;
+            //        Cards.Add(card);
+
+            //    }
+           
         //Cards property which is a list
         public List<Card> Cards { get; set; }
 

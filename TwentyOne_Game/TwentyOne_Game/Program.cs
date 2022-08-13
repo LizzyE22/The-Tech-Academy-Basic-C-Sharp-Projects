@@ -10,8 +10,21 @@ namespace TwentyOne_Game
     {
         static void Main(string[] args)
         {
-            Player<Card> player = new Player<Card>();
-            player.Hand = new List<Card>();
+            //Another enum sxample//
+            Card card = new Card();
+            card.Suit = Suit.Clubs;
+            //casting enum string to an integer...return is "1"
+            int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+            Console.WriteLine(underlyingValue);
+
+            ///Enum example//
+            //DaysofTheWeek day = DaysofTheWeek.Monday;
+
+            ///Generics example///
+            //Player<Card> player = new Player<Card>();
+            //player.Hand = new List<Card>();
+
+
             //Game game = new TwentyOneGame();
             //game.Players = new List<Player>();
             //Player player = new Player();
@@ -48,6 +61,18 @@ namespace TwentyOne_Game
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
+        //Enums example//
+        //public enum DaysofTheWeek
+        //{
+        //    Monday, 
+        //    Tuesday,
+        //    Wednesday,
+        //    Thursday,
+        //    Friday,
+        //    Saturday,
+        //    Sunday
+
+        //}
 
 
 
