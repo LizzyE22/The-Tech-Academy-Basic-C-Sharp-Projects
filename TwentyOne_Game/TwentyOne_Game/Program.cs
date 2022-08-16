@@ -10,6 +10,32 @@ namespace TwentyOne_Game
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            string playerName = Console.ReadLine();
+            
+            Console.WriteLine("And how much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            
+            Console.WriteLine("Hello, {0}, Would you like to join a game of 21 rightnow?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
+            {
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thankyou for playing!");
+            }
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.Read();
+        }
+
+
 
             //Struct example//
             //Card card1 = new Card();
@@ -59,7 +85,7 @@ namespace TwentyOne_Game
             //game.Play();
             //Console.ReadLine();
             ////creating object:deck
-            Deck deck = new Deck();
+            //Deck deck = new Deck();
 
             //Lambda function is "Count", "Cards" is a list
             //"x" is standard and represents each element in the list
@@ -77,16 +103,16 @@ namespace TwentyOne_Game
             //}
 
 
-            ////Another lamda example with new list and instantiating w/ values////
+            ////Another lambda example with new list and instantiating w/ values////
             /////fast way to sum numbers in a list--- output should be 906 w/ (int sum = numberList.Sum())
-            List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
+            //List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
 
             //additional arithmetic to each item in the list.
             //says; for each item, lets add "5" to that item
             //output should now go from 906 to 936 with additional arithmetic
-            int sum = numberList.Sum(x => x + 5);
+            //int sum = numberList.Sum(x => x + 5);
 
-            Console.WriteLine(sum);
+            //Console.WriteLine(sum);
             
             
             
@@ -100,8 +126,8 @@ namespace TwentyOne_Game
             //}
 
             //Console.WriteLine(deck.Cards.Count);
-            Console.ReadLine();
-        }
+        //    Console.ReadLine();
+        //}
         
         
         //Enums example//
