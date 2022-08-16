@@ -8,8 +8,11 @@ namespace Lambda_SubmissionAssignment
 {
     public class Employee
     {
-        public string Id { get; set; }
+        //Employee class with 3 properties
+        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+
+        
     }
 }
