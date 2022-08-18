@@ -9,9 +9,12 @@ namespace TwentyOne_Game
     //adding "abstract" to the class locks it in, and it can only now be inherited from and cannot be instantiated
     public abstract class Game
     {
-        public List<Player> Players { get; set; }
+        private List<Player> _players = new List<Player>();
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
+
+        public List<Player> Players { get { return _players; } set { _players = value; } }
         public string Name { get; set; }
-        public Dictionary<Player, int> Bets { get; set; }
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } }
 
         //adding abstract method that can only exist inside of an abstract class and contains no implementation
         //an abstract method states that any class inheriting this class must implement this method

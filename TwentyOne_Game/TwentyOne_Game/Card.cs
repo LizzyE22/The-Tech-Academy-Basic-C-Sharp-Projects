@@ -16,10 +16,16 @@ namespace TwentyOne_Game
         //    //Suit = "Spades";
         //    //Face = "Two";
         //}
+                
         //creating property in the object
         //Suit Suit and Face Face is enum type
         public Suit Suit { get; set; }
         public Face Face { get; set; }
+
+        public override string ToString()   //overriding the 2 string method
+        {
+            return string.Format("{0} of {1}", Face, Suit);            
+        }
     }
     public enum Suit
     {
