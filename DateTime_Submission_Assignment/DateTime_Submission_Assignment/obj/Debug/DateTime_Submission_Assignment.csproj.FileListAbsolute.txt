@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Submission_Assignment\DateTime_Submission_Assignment\bin\Debug\DateTime_Submission_Assignment.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Submission_Assignment\DateTime_Submission_Assignment\bin\Debug\DateTime_Submission_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Submission_Assignment\DateTime_Submission_Assignment\bin\Debug\DateTime_Submission_Assignment.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Submission_Assignment\DateTime_Submission_Assignment\obj\Debug\DateTime_Submission_Assignment.csproj.AssemblyReference.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Submission_Assignment\DateTime_Submission_Assignment\obj\Debug\DateTime_Submission_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Submission_Assignment\DateTime_Submission_Assignment\obj\Debug\DateTime_Submission_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime_Submission_Assignment\DateTime_Submission_Assignment\obj\Debug\DateTime_Submission_Assignment.pdb
