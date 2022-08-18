@@ -5,3 +5,6 @@ C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.csproj.CoreCompileInputs.cache
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.exe
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\bin\Debug\Casino.dll
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\bin\Debug\Casino.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.csproj.CopyComplete

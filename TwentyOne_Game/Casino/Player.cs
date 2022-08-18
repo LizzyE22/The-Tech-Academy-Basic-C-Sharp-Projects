@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne_Game
+namespace Casino
 {
     //making generic Player class by defining data type with "T"
     //public class Player<T>
     public class Player
     {
-        //example for generic Player class
-        //public List<T> Hand { get; set; }
+        //constructor call chain example
+        public Player(string name) : this(name, 100)
+        {
 
+        }
         //constructor taking 2 parameters(arguments); name and beginningBalance
         public Player(string name, int beginningBalance)
         {
@@ -26,6 +28,7 @@ namespace TwentyOne_Game
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }    //adding Guid property
 
         public bool Bet(int amount)
         {

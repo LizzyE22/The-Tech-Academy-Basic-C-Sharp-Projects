@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace TwentyOne_Game
+namespace Casino
 {
     public class Dealer
     {
@@ -31,7 +31,7 @@ namespace TwentyOne_Game
             using (StreamWriter file = new StreamWriter(@"C:\Users\Esque\source\repos\log.txt", true))
             {
                 file.WriteLine(DateTime.Now);   //using DateTime value 
-                file.WriteLine(card);   //appending this file
+                file.WriteLine(card);   //appending and logging this file
             }
             //Removing Card from the deck. "RemoveAt" is a method that any list has passing in an index where you want to remove
             Deck.Cards.RemoveAt(0);

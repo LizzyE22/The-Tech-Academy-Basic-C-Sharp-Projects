@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne_Game
+namespace Casino
 {
     //adding "abstract" to the class locks it in, and it can only now be inherited from and cannot be instantiated
     public abstract class Game
