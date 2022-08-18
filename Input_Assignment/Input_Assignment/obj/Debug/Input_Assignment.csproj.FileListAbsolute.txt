@@ -1,0 +1,6 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Input_Assignment\Input_Assignment\bin\Debug\Input_Assignment.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Input_Assignment\Input_Assignment\bin\Debug\Input_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Input_Assignment\Input_Assignment\bin\Debug\Input_Assignment.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Input_Assignment\Input_Assignment\obj\Debug\Input_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Input_Assignment\Input_Assignment\obj\Debug\Input_Assignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Input_Assignment\Input_Assignment\obj\Debug\Input_Assignment.pdb

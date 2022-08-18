@@ -30,6 +30,7 @@ namespace TwentyOne_Game
             //"true" is yes, I want to append
             using (StreamWriter file = new StreamWriter(@"C:\Users\Esque\source\repos\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);   //using DateTime value 
                 file.WriteLine(card);   //appending this file
             }
             //Removing Card from the deck. "RemoveAt" is a method that any list has passing in an index where you want to remove
