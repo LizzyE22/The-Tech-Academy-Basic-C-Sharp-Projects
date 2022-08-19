@@ -12,7 +12,7 @@ namespace Constructor_SubmissionAssignment
         public string Name { get; set; }
 
         //chaining 2 constructors together
-        public Employee(string name) : this(name, 25)
+        public Employee(string name) : this(name, 65)
         {
 
         }
@@ -20,7 +20,10 @@ namespace Constructor_SubmissionAssignment
         {
             EmployeeWage = wage;
             Name = name;
+            Console.Write(name + " " + "has a wage of $" + Convert.ToInt32(wage) + "/hr.");
+            Console.Read();
+
         }
-       
+
     }
 }

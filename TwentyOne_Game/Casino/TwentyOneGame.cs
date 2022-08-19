@@ -16,7 +16,7 @@ namespace Casino.TwentyOne_Game
         {
             Dealer = new TwentyOneDealer();     //instantiating new dealer
             foreach (Player player in Players)
-            {
+            {               
                 player.Hand = new List<Card>();
                 player.Stay = false;
             }
@@ -24,11 +24,18 @@ namespace Casino.TwentyOne_Game
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
-            Console.WriteLine("Place your bet!");
 
             foreach(Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                //exception handling for user inputs, "place your bet"
+                bool validAnswer = false;
+                int bet = 0;
+                while (validAnswer)
+                {
+                    Console.WriteLine("Place your bet!");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter digits only, and no decimals");
+                }
                 //passing in amount they enter into Bet method
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
@@ -54,7 +61,7 @@ namespace Casino.TwentyOne_Game
                         bool blackJack = TwentyOneRules.CheckForBlackJack(player.Hand);
                         if (blackJack)
                         {
-                            Console.WriteLine("Blackjack! {0} wins {1})", player.Name, Bets[player]);
+                            Console.WriteLine("Blackjack! {0} wins {1}", player.Name, Bets[player]);
                             //adding amount to balance if player won
                             //in 21, rules apply that you win your bet * 1.5 + you get your bet back
                             player.Balance += Convert.ToInt32(Bets[player] * 1.5 + Bets[player]);
