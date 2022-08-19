@@ -18,7 +18,7 @@ namespace Constructor_SubmissionAssignment
             //creating variable with keyword "var"
             var dic = new Dictionary<string, Dictionary<int, string>>();
 
-            chaining 2 contructors together example
+            //chaining 2 contructors together example
             Employee newEmployee = new Employee("Lizzy");
             Console.WriteLine(newEmployee);
             Console.ReadLine();
