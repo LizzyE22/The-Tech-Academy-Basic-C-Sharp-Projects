@@ -1,0 +1,7 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_SubmissionAssignment\Constructor_SubmissionAssignment\obj\Debug\Constructor_SubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_SubmissionAssignment\Constructor_SubmissionAssignment\bin\Debug\Constructor_SubmissionAssignment.exe.config
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_SubmissionAssignment\Constructor_SubmissionAssignment\bin\Debug\Constructor_SubmissionAssignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_SubmissionAssignment\Constructor_SubmissionAssignment\bin\Debug\Constructor_SubmissionAssignment.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_SubmissionAssignment\Constructor_SubmissionAssignment\obj\Debug\Constructor_SubmissionAssignment.exe
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_SubmissionAssignment\Constructor_SubmissionAssignment\obj\Debug\Constructor_SubmissionAssignment.pdb
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constructor_SubmissionAssignment\Constructor_SubmissionAssignment\obj\Debug\Constructor_SubmissionAssignment.csproj.AssemblyReference.cache
