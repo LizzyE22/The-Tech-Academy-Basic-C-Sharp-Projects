@@ -30,11 +30,16 @@ namespace Casino.TwentyOne_Game
                 //exception handling for user inputs, "place your bet"
                 bool validAnswer = false;
                 int bet = 0;
-                while (validAnswer)
+                while (!validAnswer)
                 {
                     Console.WriteLine("Place your bet!");
                     validAnswer = int.TryParse(Console.ReadLine(), out bet);
                     if (!validAnswer) Console.WriteLine("Please enter digits only, and no decimals");
+                }
+                //throwing an exception with if statement for bet section
+                if (bet < 0)
+                {
+                    throw new FraudException("Security! Kick this person out!");
                 }
                 //passing in amount they enter into Bet method
                 bool successfullyBet = player.Bet(bet);
@@ -117,7 +122,7 @@ namespace Casino.TwentyOne_Game
                         Console.WriteLine("{0} Busted! You lose your bet of {1}. Your balance is now {2}.", player.Name, Bets[player], player.Balance);
                         Console.WriteLine("Do you want to play again?");
                         answer = Console.ReadLine().ToLower();
-                        if (answer == "yes" || answer == "yeah")
+                        if (answer == "yes" || answer == "yeah" || answer == "y")
                         {
                             player.isActivelyPlaying = true;
                             return;
