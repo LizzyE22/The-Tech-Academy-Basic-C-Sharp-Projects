@@ -55,16 +55,20 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                var currentDate = DateTime.Today;
+                int userAge = insuree.DateOfBirth.Year;
+                userAge = currentDate.Year - insuree.DateOfBirth.Year;
+
                 insuree.Quote = 50m;
-                if (insuree.DateOfBirth.Year <= 18)
+                if (userAge <= 18)
                 {
                     insuree.Quote += 100;
                 }
-                if (insuree.DateOfBirth.Year >= 19 && insuree.DateOfBirth.Year <= 25)
+                if (userAge >= 19 && insuree.DateOfBirth.Year <= 25)
                 {
                     insuree.Quote += 50;
                 }
-                if (insuree.DateOfBirth.Year >= 26)
+                if (userAge >= 26)
                 {
                     insuree.Quote += 25;
                 }
@@ -84,7 +88,10 @@ namespace CarInsurance.Controllers
                         insuree.Quote += 25;
                     }
                 }
-                insuree.Quote += insuree.SpeedingTickets * 10;
+                if (insuree.SpeedingTickets > 0)
+                {
+                    insuree.Quote += insuree.SpeedingTickets * 10;
+                }
                 
                 if (insuree.DUI == true)
                 {
