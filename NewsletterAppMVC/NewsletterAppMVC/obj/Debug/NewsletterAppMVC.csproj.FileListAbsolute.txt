@@ -1,3 +1,4 @@
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CoreCompileInputs.cache
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\NewsletterAppMVC.dll.config
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\NewsletterAppMVC.dll
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\NewsletterAppMVC.pdb
@@ -51,6 +52,8 @@ C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\roslyn\VBCSCompiler.exe
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Antlr3.Runtime.dll
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Newtonsoft.Json.dll
@@ -62,6 +65,8 @@ C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.WebPages.dll
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\WebGrease.dll
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.Helpers.xml
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.Mvc.xml
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.Optimization.xml
@@ -72,12 +77,7 @@ C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Newtonsoft.Json.xml
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Antlr3.Runtime.pdb
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.AssemblyReference.cache
-C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CoreCompileInputs.cache
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
 C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
-C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
-C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
-C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
-C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Esque\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.AssemblyReference.cache
