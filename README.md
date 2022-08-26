@@ -1,1 +1,2 @@
-This repository will contain my C# basic projects. Thanks for viewing!
+#C# Projects
+This repository contains my C# basic projects. Thanks for viewing!
