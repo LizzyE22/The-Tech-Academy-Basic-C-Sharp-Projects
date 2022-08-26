@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rny3l7d4u0wLrhIT3D0/DbkL9JsvGRcX5D1vIy+1UUF22w6caCL/Wo/5wyhC4qTxvwpWMvAjoWxIBb7+o8UqmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Esque\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\helloworld\\helloworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Esque\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.27\\microsoft.netcore.app.runtime.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\Esque\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.27\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\Esque\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.27\\microsoft.aspnetcore.app.runtime.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
